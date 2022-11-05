@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CwiczenieStringBulder", "MAcierz\CwiczenieStringBulder.csproj", "{90E54C92-84B5-4A26-A1AE-892C9D8B2F1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CwiczenieStringBulder", "StringBuilder\CwiczenieStringBulder.csproj", "{90E54C92-84B5-4A26-A1AE-892C9D8B2F1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
